@@ -1,2 +1,2 @@
 # test-pilot-cube
-AR Object activated by a marker
+This repo is designed to have the necessary components to display an AR Object activated by a marker.
